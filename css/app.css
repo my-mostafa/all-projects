@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family: "TTNorms Light";  
+    src: url("../fonts/TTNorms-Light.otf") format("openType");
+}
+@font-face {
+    font-family: "vazir";  
+    src: url("../fonts/Vazir-Thin.woff2") format("openType");
+}
+
+a , h3 , h5 {
+    
+    font-family: "TTNorms Light";
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 20px ;
+}
+h5 , h3 {
+    font-family: "vazir";
+}
+h3 {
+    display: inline-block;
+    margin-right: 20px ;
+    width: 917px;
+}
+button {
+    margin-right: 300px;
+}
+
+iframe {
+    margin: 0 auto;
+    display: block;
+    border-radius: 5px;
+}
+
+
